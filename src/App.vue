@@ -27,11 +27,13 @@ export default {
 .container{
   margin: 50px;
   padding: 50px;
+  flex-wrap: wrap;
 }
 
 .row{
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;sd
   justify-content: space-between;
   background: grey;
   margin: 10px;

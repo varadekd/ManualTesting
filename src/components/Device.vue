@@ -1,5 +1,5 @@
 <template>
-		<canvas id="device" class="col-sm-offset-1"></canvas>
+		<canvas id="device" class="col-sm-offset-1 col-sm-3"></canvas>
 </template>
 
 <script>
@@ -11,7 +11,6 @@ export default{
 <style>
 	#device{
 		height: 400px;
-		width: 249px;
 		background: white;
 	}
 </style>
